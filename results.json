@@ -1,0 +1,24 @@
+{
+  "population_size": 71,
+  "mean_weight_g": 261.31,
+  "sample_size": 24,
+  "trials": 5000,
+  "stratum_allocations": {
+    "horsebean": 3,
+    "linseed": 4,
+    "soybean": 5,
+    "sunflower": 4,
+    "meatmeal": 4,
+    "casein": 4
+  },
+  "simple_random": {
+    "bias_g": 0.171,
+    "sd_g": 12.823,
+    "rmse_g": 12.824
+  },
+  "stratified": {
+    "bias_g": 0.057,
+    "sd_g": 8.883,
+    "rmse_g": 8.884
+  }
+}
